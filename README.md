@@ -2,6 +2,6 @@
 
 
 ## Xcode  脚本自动化构建资料
-、、、sh
+```sh
     Xcode-ScriptCMD
-、、、
+```
